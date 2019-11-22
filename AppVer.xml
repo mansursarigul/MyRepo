@@ -2,8 +2,8 @@
 <contents>
 	<root>
 		<Versiyon>
-			<Minor>2</Minor>
-			<Major>1.2</Major>		
+			<Minor>5</Minor>
+			<Major>1.5</Major>		
 		</Versiyon>
 		<localSettings>
 			<XMLRehberURL>http://172.16.90.83/tftp/config/data.xml</XMLRehberURL>
