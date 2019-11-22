@@ -5,8 +5,8 @@
 		<Major>1.5</Major>		
 	</Versiyon>
 	<localSettings>
-		<XMLRehberURL>http://172.16.90.83/tftp/config/data.xml</XMLRehberURL>
-		<XMLVersiyonURL>http://172.16.90.83/tftp/config/AppVer.xml</XMLVersiyonURL>		
-		<ApkURL>http://172.16.90.83/tftp/config/Apk.apk</ApkURL>				
+		<XMLRehberURi>http://rehber.teski.gov.tr/bidb/kisiler/rehber2.php</XMLRehberURi>
+		<XMLVersiyonURi>https://raw.githubusercontent.com/mansursarigul/MyRepo/master/AppVer.xml</XMLVersiyonURi>		
+		<ApkURL>https://raw.githubusercontent.com/mansursarigul/MyRepo/master/</ApkURL>				
 	</localSettings>
 </contents>
