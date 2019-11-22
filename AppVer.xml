@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <contents>
-	<root>
-		<Versiyon>
-			<Minor>5</Minor>
-			<Major>1.5</Major>		
-		</Versiyon>
-		<localSettings>
-			<XMLRehberURL>http://172.16.90.83/tftp/config/data.xml</XMLRehberURL>
-			<XMLVersiyonURL>http://172.16.90.83/tftp/config/AppVer.xml</XMLVersiyonURL>		
-			<ApkURL>http://172.16.90.83/tftp/config/Apk.apk</ApkURL>				
-		</localSettings>
-	</root>
+	<Versiyon>
+		<Minor>5</Minor>
+		<Major>1.5</Major>		
+	</Versiyon>
+	<localSettings>
+		<XMLRehberURL>http://172.16.90.83/tftp/config/data.xml</XMLRehberURL>
+		<XMLVersiyonURL>http://172.16.90.83/tftp/config/AppVer.xml</XMLVersiyonURL>		
+		<ApkURL>http://172.16.90.83/tftp/config/Apk.apk</ApkURL>				
+	</localSettings>
 </contents>
