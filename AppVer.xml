@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <contents>
 	<Versiyon>
-		<Minor>5</Minor>
-		<Major>1.5</Major>		
+		<Minor>2</Minor>
+		<Major>1.2</Major>		
 	</Versiyon>
 	<localSettings>
 		<XMLRehberURi>http://rehber.teski.gov.tr/bidb/kisiler/rehber2.php</XMLRehberURi>
