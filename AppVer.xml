@@ -3,10 +3,8 @@
 	<Versiyon>
 		<Minor>2</Minor>
 		<Major>1.2</Major>		
-	</Versiyon>
-	<localSettings>
 		<XMLRehberURi>http://rehber.teski.gov.tr/bidb/kisiler/rehber2.php</XMLRehberURi>
 		<XMLVersiyonURi>https://raw.githubusercontent.com/mansursarigul/MyRepo/master/AppVer.xml</XMLVersiyonURi>		
-		<ApkURL>https://raw.githubusercontent.com/mansursarigul/MyRepo/master/</ApkURL>				
-	</localSettings>
+		<ApkURL>https://raw.githubusercontent.com/mansursarigul/MyRepo/master/</ApkURL>	
+	</Versiyon>
 </contents>
